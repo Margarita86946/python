@@ -1,0 +1,16 @@
+[
+    {
+        "make": "Toyota",
+        "model": "Corolla",
+        "year": 2020,
+        "price": 20000,
+        "id": 1
+    },
+    {
+        "make": "Toyota",
+        "model": "Corolla",
+        "year": 2020,
+        "price": 20000,
+        "id": 2
+    }
+]
